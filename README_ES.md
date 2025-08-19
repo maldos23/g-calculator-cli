@@ -1,4 +1,5 @@
 # 👽 g-calculator-cli 
+[![Python Tests](https://github.com/maldos23/g-calculator-cli/actions/workflows/python-tests.yml/badge.svg)](https://github.com/maldos23/g-calculator-cli/actions/workflows/python-tests.yml)
 
 Una calculadora de línea de comandos potente y flexible que soporta expresiones matemáticas, variables y funciones. Disponible en inglés y español.
 
